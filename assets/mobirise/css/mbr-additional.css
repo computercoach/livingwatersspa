@@ -491,6 +491,12 @@ h6,
 #features1-3 .mbr-cards-col:nth-child(odd) .card-text {
   text-align: center;
 }
+#features1-3 .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #cccccc;
+}
+#features1-3 .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #28324e;
+}
 
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
