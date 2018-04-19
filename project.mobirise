@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Living Waters Spa",
-    "currentPage": "Vacation.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -40,7 +40,7 @@
       "settings": {
         "main": true,
         "title": "Living Waters Spa & Resort",
-        "meta_descr": "A European-style Clothing-optional Mini-resort",
+        "meta_descr": "A European-style Clothing-optional Mini-resort\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -319,7 +319,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"Sauna.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">HELO SAUNA</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"MineralWater.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MINERAL SPAS</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"MineralSpa.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MINERAL SPAS</a>",
           "button3": "<a data-app-btn=\"true\" href=\"Services.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ALL TREATMENTS</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
