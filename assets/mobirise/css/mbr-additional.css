@@ -7,6 +7,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -498,6 +499,15 @@ h6,
 }
 #features1-3 .mbr-cards-col:nth-child(even) .card-subtitle {
   color: #28324e;
+}
+#form2-18 .mbr-section-title {
+  color: #fff;
+}
+#form2-18 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#form2-18 .mbr-section-title SPAN {
+  font-family: 'Merriweather', serif;
 }
 
 

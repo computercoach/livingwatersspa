@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Living Waters Spa",
-    "currentPage": "MineralSpa.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 44,
+    "uniqCompNum": 45,
     "versionPublish": "4.6.5",
     "favicon": "",
     "noImageResize": "",
@@ -212,7 +212,7 @@
             "paddingBottom": "3",
             "bgColor": "#7e9b9f"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">MORE THAN A VACATION</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">RATES &amp; SPECIALS</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">CLOTHING OPTIONAL FAQs</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">MORE THAN A VACATION</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">RATES &amp; SPECIALS</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">CLOTHING OPTIONAL FAQs</a>  ",
           "_tags": [
             "Theme"
           ],
@@ -320,7 +320,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"Sauna.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">HELO SAUNA</a>",
           "button2": "<a data-app-btn=\"true\" href=\"MineralWater.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MINERAL SPAS</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ALL TREATMENTS</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Services.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ALL TREATMENTS</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -343,6 +343,54 @@
               "color": "#28324e"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showSubTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">SUBSCRIBE</span>",
+          "subtitle": "Subscribe for the Latest News on Our Discounts and Specials",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "form": {
+            "action": "ricesupastar@yahoo.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-18"
         },
         {
           "_params": {
