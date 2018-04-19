@@ -215,7 +215,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#7e9b9f"
+            "bgColor": "#2e2e2e"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Vacation.html\" data-toolbar=\"-mbrBtnMove\">MORE THAN A VACATION</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">RATES &amp; SPECIALS</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">CLOTHING OPTIONAL FAQs</a>  ",
           "_tags": [
