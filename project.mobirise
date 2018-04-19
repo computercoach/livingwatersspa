@@ -176,10 +176,10 @@
             ".mbr-section-title": {
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "color": "#efefef"
+              "color": "#ffffff"
             },
             ".lead P": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "font-size": "20px"
             }
           },
