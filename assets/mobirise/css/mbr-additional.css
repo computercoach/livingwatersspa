@@ -682,6 +682,12 @@ h6,
   font-family: 'Merriweather', serif;
 }
 
+
+
+
+
+
+
 #ext_menu-12 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -743,6 +749,67 @@ h6,
 #ext_menu-12 .link[aria-expanded="true"],
 #ext_menu-12 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header2-1d .mbr-section-title {
+  font-family: 'Merriweather', serif;
+}
+#header2-1d .mbr-section-text {
+  font-size: 18px;
+}
+#header3-1g .mbr-section-title,
+#header3-1g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1g .mbr-section-title {
+  font-family: 'Merriweather', serif;
+}
+#features3-1f P {
+  text-align: center;
+}
+#features3-1f H5 {
+  color: #2e2e2e;
+  font-size: 16px;
+}
+#features3-1f H4 {
+  font-family: 'Merriweather', serif;
+  font-size: 22px;
+}
+#header3-1h .mbr-section-title,
+#header3-1h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1h .mbr-section-subtitle {
+  color: #efefef;
+}
+#header3-1h .mbr-section-title {
+  color: #efefef;
+  font-family: 'Merriweather', serif;
+}
+#features3-1i H4 {
+  color: #efefef;
+  font-size: 22px;
+  font-family: 'Merriweather', serif;
+}
+#features3-1i H5 {
+  color: #efefef;
+  font-size: 16px;
+}
+#features3-1i P {
+  color: #efefef;
+}
+#content1-1j P {
+  text-align: center;
+  color: #efefef;
+}
+#header3-1k .mbr-section-title,
+#header3-1k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1k .mbr-section-title {
+  font-family: 'Merriweather', serif;
+}
+#header3-1k .mbr-section-subtitle {
+  color: #2e2e2e;
 }
 
 #ext_menu-14 .hide-buttons .nav-btn {
