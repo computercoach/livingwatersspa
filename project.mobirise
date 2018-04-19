@@ -43,7 +43,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false,
             "sticky": false,
@@ -365,7 +365,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false,
             "sticky": false,
@@ -654,7 +654,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false,
             "sticky": false,
@@ -935,7 +935,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false,
             "sticky": false,
