@@ -598,6 +598,7 @@ h6,
   font-size: 36px;
 }
 
+
 #ext_menu-y .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -662,6 +663,18 @@ h6,
 }
 #form1-11 .form-control-label {
   color: #232323;
+}
+#form1-11 SMALL {
+  color: #2e2e2e;
+}
+#form2-1c .mbr-section-title {
+  color: #fff;
+}
+#form2-1c .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#form2-1c .mbr-section-title SPAN {
+  font-family: 'Merriweather', serif;
 }
 
 #ext_menu-12 .hide-buttons .nav-btn {

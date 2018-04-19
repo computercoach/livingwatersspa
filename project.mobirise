@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Living Waters Spa",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 48,
+    "uniqCompNum": 49,
     "versionPublish": "4.6.5",
     "favicon": "",
     "noImageResize": "",
@@ -194,7 +194,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#475577",
+            "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
           "title": "Living Waters Spa",
@@ -821,14 +821,14 @@
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nakedsky7-640x466.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#7e9b9f",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.6"
           },
           "title": "CONTACT FORM",
           "subtitle": "We welcome your questions and comments. Contact us and someone will be in touch shortly.",
@@ -868,8 +868,59 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#2e2e2e"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showSubTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">SUBSCRIBE</span>",
+          "subtitle": "Subscribe for the Latest News on Our Discounts and Specials",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "form": {
+            "action": "ricesupastar@yahoo.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-1c"
         },
         {
           "_params": {
