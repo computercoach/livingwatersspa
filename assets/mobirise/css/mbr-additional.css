@@ -762,17 +762,20 @@ h6,
 }
 #header3-1g .mbr-section-title {
   font-family: 'Merriweather', serif;
+  color: #efefef;
 }
 #features3-1f P {
   text-align: center;
+  color: #efefef;
 }
 #features3-1f H5 {
-  color: #2e2e2e;
+  color: #efefef;
   font-size: 16px;
 }
 #features3-1f H4 {
   font-family: 'Merriweather', serif;
   font-size: 22px;
+  color: #efefef;
 }
 #header3-1h .mbr-section-title,
 #header3-1h .mbr-section-subtitle {
@@ -807,9 +810,19 @@ h6,
 }
 #header3-1k .mbr-section-title {
   font-family: 'Merriweather', serif;
+  color: #efefef;
 }
 #header3-1k .mbr-section-subtitle {
-  color: #2e2e2e;
+  color: #efefef;
+}
+#features3-1l H4 {
+  color: #efefef;
+}
+#features3-1l H5 {
+  color: #efefef;
+}
+#features3-1l P {
+  color: #efefef;
 }
 
 #ext_menu-14 .hide-buttons .nav-btn {

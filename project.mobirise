@@ -1122,14 +1122,15 @@
             },
             ".mbr-section-title": {
               "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "color": "#efefef"
             }
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#c0a375"
+            "bgColor": "#2e2e2e"
           },
           "title": "Relax",
           "meta": "By John Smith posted July 20, 2016",
@@ -1153,7 +1154,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c0a375",
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1241,16 +1242,18 @@
           "_anchor": "features3-1f",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#efefef"
             },
             "H5": {
-              "color": "#2e2e2e",
+              "color": "#efefef",
               "font-size": "16px"
             },
             "H4": {
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "22px"
+              "font-size": "22px",
+              "color": "#efefef"
             }
           }
         },
@@ -1400,8 +1403,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "bgColor": "#2e2e2e"
           },
           "text": "<p>30 minute treatments:</p><p>Any one for $75&nbsp;</p><p>Any two for $140</p><p>Any three for $210</p>",
@@ -1424,17 +1427,18 @@
             },
             ".mbr-section-title": {
               "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "color": "#efefef"
             },
             ".mbr-section-subtitle": {
-              "color": "#2e2e2e"
+              "color": "#efefef"
             }
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
-            "bgColor": "#7e9b9f"
+            "bgColor": "#2e2e2e"
           },
           "title": "Rejuvenate",
           "meta": "To really feel a difference in your<br>body and soul, enjoy one of these<br>extraordinary experiences<br>",
@@ -1458,7 +1462,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1543,7 +1547,18 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-1l"
+          "_anchor": "features3-1l",
+          "_styles": {
+            "H4": {
+              "color": "#efefef"
+            },
+            "H5": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_params": {
