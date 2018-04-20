@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 59,
+    "uniqCompNum": 60,
     "versionPublish": "4.6.5",
     "favicon": "",
     "noImageResize": "",
@@ -1147,6 +1147,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false,
+            "columnsColor": "#2e2e2e",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": "3",
@@ -1154,7 +1155,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#c0a375",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1212,11 +1213,11 @@
             }
           },
           "title1": "LWS Signature Massage",
-          "subtitle1": "$120 for 75 minutes<br>$155 for 90 minutes<br>$230 for 2 hours",
-          "caption1": "\"If you were to only have one massage<br>in your life, this is it!\"<br>This massage is uniquely ours, drawing from the finest of traditional Western and Eastern approaches. This massage is based on long, flowing strokes that ease muscle tension, gently calm and help reconnect you with yourself. Drift into a state of deep relaxation.<br>",
+          "subtitle1": "$120 for 75 minutes<div>$155 for 90 minutes</div><div>$230 for 2 hours</div>",
+          "caption1": "\"If you were to only have one massage<br>in your life, this is it!\"<br>This massage is uniquely ours, drawing from the finest of traditional Western and Eastern approaches. This massage is based on long, flowing strokes that ease muscle tension, gently calm and help reconnect you with yourself. Drift into a state of deep relaxation.",
           "title2": "Couples or Friends Massage",
           "subtitle2": "$250 for 75 minutes",
-          "caption2": "Imagine lying on side-by-side tables while each of you receives our Signature Massage. Your shared relaxation session will send you on a peaceful journey together. ",
+          "caption2": "Imagine lying on side-by-side tables while each of you receives our Signature Massage. Your shared relaxation session will send you on a peaceful journey together.",
           "title3": "Four-Handed Massage",
           "subtitle3": "$250 for 60 minutes",
           "caption3": "The ultimate experience in relaxation as you double your enjoyment of our Signature Massage. Your body and soul will receive the full attention of two therapists working in simultaneous flow to transport you to a place of deep tranquility and meditation.",
@@ -1238,22 +1239,17 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_anchor": "features3-1f",
+          "_name": "features1",
+          "_anchor": "features1-1n",
           "_styles": {
-            "P": {
-              "text-align": "center",
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
               "color": "#efefef"
             },
-            "H5": {
-              "color": "#efefef",
-              "font-size": "16px"
-            },
-            "H4": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "22px",
-              "color": "#efefef"
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#2e2e2e"
             }
           }
         },
@@ -1273,7 +1269,7 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
+            "paddingTop": "4",
             "paddingBottom": 1,
             "bgColor": "#2e2e2e"
           },
@@ -1364,7 +1360,7 @@
           "caption2": "A leisurely facial cleansing, plus a neck, shoulder and scalp massage.",
           "title3": "Foot Massage",
           "subtitle3": "$75 for 30 minutes",
-          "caption3": "reat your feet to a gentle sugar scrub, reflexology and a nurturing massage.",
+          "caption3": "Treat your feet to a gentle sugar scrub, reflexology and a nurturing massage.",
           "title4": "Body Polish",
           "subtitle4": "$75 for 30 minutes",
           "caption4": "A gentle micro-buff is used to scrub away dead cells, increase circulation and invigorate your skin.",

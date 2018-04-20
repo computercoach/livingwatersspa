@@ -688,7 +688,6 @@ h6,
 
 
 
-
 #ext_menu-12 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -765,18 +764,14 @@ h6,
   font-family: 'Merriweather', serif;
   color: #efefef;
 }
-#features3-1f P {
-  text-align: center;
+#features1-1n .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features1-1n .mbr-cards-col:nth-child(odd) .card-subtitle {
   color: #efefef;
 }
-#features3-1f H5 {
-  color: #efefef;
-  font-size: 16px;
-}
-#features3-1f H4 {
-  font-family: 'Merriweather', serif;
-  font-size: 22px;
-  color: #efefef;
+#features1-1n .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #2e2e2e;
 }
 #header3-1h .mbr-section-title,
 #header3-1h .mbr-section-subtitle {
