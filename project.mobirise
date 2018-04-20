@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Living Waters Spa",
-    "currentPage": "index.html",
+    "currentPage": "About.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2001,9 +2001,9 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/kismetsky-1885x952.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2012,13 +2012,13 @@
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayColor": "#2e2e2e"
+                "overlayColor": "#cccccc"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/goodmorninglws-copy-476x293.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2027,13 +2027,13 @@
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayColor": "#2e2e2e"
+                "overlayColor": "#7e9b9f"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/nakedsky7-640x466.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2042,13 +2042,13 @@
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayColor": "#2e2e2e"
+                "overlayColor": "#c0a375"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/nakedsky6-640x504.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2057,7 +2057,7 @@
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayColor": "#2e2e2e"
+                "overlayColor": "#a38f84"
               }
             ]
           },
